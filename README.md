@@ -1,4 +1,4 @@
 # QA Checklists
-List of checklists I made based on available websites
+List of checklists
 
-- [Speedtest](https://docs.google.com/spreadsheets/d/1NiFNJZTbRQ2xie0qZPYghFRBuAzy7yMPrtxklsxGDbA/edit?usp=sharing)
+- **[reqres.in](https://docs.google.com/spreadsheets/d/1RP2oowzeV4z7HtP0Sy6sixTQusscqc9HPLZf9BO_wdc/edit?usp=sharing)**
